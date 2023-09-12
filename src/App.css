@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.search-section{
+    background-image: url('https://www.luxuryaqar.com/img/home-header-bg.webp');
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.services{
+    background-image: url('https://www.luxuryaqar.com/img/services-section-bg.webp');
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.projects{
+    background-image: url('https://www.luxuryaqar.com/img/projects-bg.webp');
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
